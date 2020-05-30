@@ -1,2 +1,2 @@
-# Python3
-Basics on python3
+# Python for Data science
+Python for Data science
